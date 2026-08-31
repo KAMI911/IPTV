@@ -9,6 +9,7 @@
 | 2  | ERT 2 Ⓖ      | [>](https://ert-live.siliconweb.com/bpk-tv/ERT2/default/index.mpd)          | <img height="20" src="https://i.imgur.com/pcusPFl.png"/> | ERT2.gr       |
 | 3  | ERT 3 Ⓖ      | [>](https://ert-live.siliconweb.com/bpk-tv/ERT3/default/index.mpd)       | <img height="20" src="https://i.imgur.com/KyhzDRm.png"/> | ERT3.gr       |
 | 4  | ERT News     | [>](https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.mpd)  | <img height="20" src="https://i.imgur.com/saIGLvr.png"/> | ERTNews.gr    |
+| 5  | ERT Cosmos   | [>](https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.mpd) | <img height="20" src="https://i.imgur.com/KsMTWYw.png"/> | ERTWorld.gr   |
 | 6  | ERT Sports 1 | [>](https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports1/default/index.mpd) | <img height="20" src="https://i.imgur.com/gebWmAB.png"/> | ERTSports1.gr |
 | 7  | ERT Sports 2 | [>](https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports2/default/index.mpd) | <img height="20" src="https://i.imgur.com/gebWmAB.png"/> | ERTSports2.gr |
 | 8  | ERT Sports 3 | [>](https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports3/default/index.mpd) | <img height="20" src="https://i.imgur.com/gebWmAB.png"/> | ERTSports3.gr |
